@@ -11,3 +11,4 @@
 
 ## 参考文献
 - [GitHub, matsuda-slab, MyYOLO](https://github.com/matsuda-slab/MyYOLO)
+- [GitHub, Yu-Zhewen, Tiny_YOLO_v3_ZYNQ](https://github.com/Yu-Zhewen/Tiny_YOLO_v3_ZYNQ)
